@@ -6,6 +6,8 @@ import org.junit.Test;
 import static org.assertj.core.api.Java6Assertions.assertThat;
 import static org.assertj.core.api.Java6Assertions.within;
 
+import com.twitter.challenge.utils.TemperatureConverter;
+
 /**
  * Example local unit test, which will execute on the development machine (host).
  *
