@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TwitterCodeChallenge2.iml" filepath="$PROJECT_DIR$/.idea/TwitterCodeChallenge2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TwitterCodeChallenge2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TwitterCodeChallenge2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SampleTwitter.iml" filepath="$PROJECT_DIR$/.idea/modules/SampleTwitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SampleTwitter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SampleTwitter.app.iml" />
     </modules>
   </component>
 </project>

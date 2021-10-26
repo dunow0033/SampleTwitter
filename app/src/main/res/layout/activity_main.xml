@@ -8,38 +8,38 @@
     android:padding="20dp">
 
     <TextView
-        android:id="@+id/tv_current_temperature"
+        android:id="@+id/currentTempTv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/current_temperature" />
 
     <TextView
-        android:id="@+id/tv_temperature"
+        android:id="@+id/tempTv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:text="14 °C / 39 °F" />
 
     <TextView
-        android:id="@+id/tv_wind_speed"
+        android:id="@+id/windSpeedTv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:text="wind speed" />
 
     <TextView
-        android:id="@+id/tv_deviation"
+        android:id="@+id/deviationTv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
     <ImageView
-        android:id="@+id/iv_cloud"
+        android:id="@+id/cloudIv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:contentDescription="@string/picture_of_cloud"
         android:src="@mipmap/ic_launcher"
-        android:visibility="gone" />
+        android:visibility="gone"
+        tools:visibility="visible"/>
 
     <Button
-        android:id="@+id/btn_deviation"
+        android:id="@+id/deviationBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/standard_deviation" />
